@@ -1,1 +1,4 @@
-Try research statement
+---
+layout: post
+title: Try research statement
+---
