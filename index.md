@@ -10,7 +10,7 @@ Biodiversity is caracterised by a network of entities with specific properties, 
 
 #### Diatoms diversification in light of their ecological niche space
 
-### Publications
+### Publications [publications](publications.md)
 
 _In prep_
 
