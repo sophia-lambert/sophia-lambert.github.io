@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 
 nav:
   - title: Research
-    url: Research.md
+    url: research.md
