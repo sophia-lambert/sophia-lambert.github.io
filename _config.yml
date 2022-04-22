@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 
-header_paths:
-- research.md
-- publications.md
+# header_paths:
+# - research.md
+# - publications.md
 
 # nav:
 #   - title: Research
