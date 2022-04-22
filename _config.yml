@@ -3,5 +3,3 @@ theme: jekyll-theme-cayman
 nav:
   - title: Research
     url: Research.md
-  - title: Publications
-    url: Publications.html
