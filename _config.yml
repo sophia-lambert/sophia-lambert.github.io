@@ -1,11 +1,35 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
+title: Sophia Lambert
+description: Macroevolution of microorganisms | PhD Student @ Institute of Biology of ENS
+
+highlighter: rouge
+date_format: "%b %-d, %Y"
+
+# By default, the navbar creates a link for every "page" containing a `title`
+# attribute, so long as the title does not include "404". Override the
+# default links by defining a `site.header_paths` array:
 # header_paths:
-# - research.md
-# - publications.md
+# - about.md
+# - projects.md
 
-# nav:
-#   - title: Research
-#     url: research.md
-#   - title: Publications
-#     url: publications.md
+##### SOCIAL INTEGRATION #####
+github_username: sophia-lambert
+# linkedin_username: not-yet
+# twitter_username: not-yet
+# scholar_userid: not-yet
+orcid_id: 0000-0001-8914-602X
+
+##### BUILD SETTINGS #####
+# incremental: true
+
+exclude:
+  - env.yml
+  - env_ruby.yml
+  - LICENSE
+  - README.md
+
+# strip all unncessary whitespace and comments
+# http://jch.penibelst.de/
+compress_html:
+  blanklines: true
