@@ -65,8 +65,8 @@ header {
 }
 
 #profile-pic img {
-  width: 50%;
-  max-width: 8rem;
+  width: 90%;
+  max-width: 5rem;
   border-radius: 50%;
   border: 5px solid white;
   box-shadow: 0 0 1.5em black;
