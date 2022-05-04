@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: home
+layout: post
 use_fontawesome: true
 categories:
   - research
