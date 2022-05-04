@@ -11,7 +11,7 @@ date_format: "%b %-d, %Y"
 # default links by defining a `site.header_paths` array:
 # header_paths:
 # - about.md
-# - research.md
+# - projects.md
 
 ##### SOCIAL INTEGRATION #####
 github_username: sophia-lambert
