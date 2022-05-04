@@ -4,6 +4,7 @@ layout: post
 use_fontawesome: true
 categories:
   - research
+---
 
 This page highlights several of my research and personal projects. For a complete list of my publications, see my [publications page](./publications.html).
 
