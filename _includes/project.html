@@ -1,27 +1,27 @@
 <div class="row content-row">
 <div class="col-sm-4 col-lg-3 image-wrapper">
-  {%- if research.thumbnail -%}
-    {%- assign thumbnail_start = research.thumbnail | slice: 0 3 -%}
+  {%- if project.thumbnail -%}
+    {%- assign thumbnail_start = project.thumbnail | slice: 0 3 -%}
     {%- if thumbnail_start == "http" -%}
-      <img class="thumbnail rounded" src="{{ research.thumbnail }}">
+      <img class="thumbnail rounded" src="{{ project.thumbnail }}">
     {%- else -%}
-      <img class="thumbnail rounded" src="{{ site.baseurl }}/images/{{ research.thumbnail }}">
+      <img class="thumbnail rounded" src="{{ site.baseurl }}/images/{{ project.thumbnail }}">
     {%- endif -%}
   {%- endif -%}
-  {%- if research.thumbnail_caption -%}
-    {{ research.thumbnail_caption | markdownify }}
+  {%- if project.thumbnail_caption -%}
+    {{ project.thumbnail_caption | markdownify }}
   {%- endif -%}
 </div>
 <div class="col-sm-8 col-lg-9">
-  <h3>{{ research.title }}</h3>
-  {%- if research.setting -%}
-  <em>{{ research.setting | markdownify }}</em>
+  <h3>{{ project.title }}</h3>
+  {%- if project.setting -%}
+  <em>{{ project.setting | markdownify }}</em>
   {%- endif -%}
-  {{ research.description | markdownify}}
-  {%- if research.info -%}
-    {{ research.info | markdownify }}
+  {{ project.description | markdownify}}
+  {%- if project.info -%}
+    {{ project.info | markdownify }}
   {%- endif -%}
-  {%- for media in research.media -%}
+  {%- for media in project.media -%}
     <a href="{{ media.url }}" class="btn btn-light me-3">
       {%- if media.type == "pdf" -%}<i class="fas fa-file">
       {%- elsif media.type == "github" -%}<i class="fab fa-github">
