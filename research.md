@@ -9,7 +9,7 @@ This page highlights several of my research projects. For a complete list of my 
 {% for category in page.categories %}
   <div class="border-bottom">
   <h1 class="section-title">{{ category | capitalize }}</h1>
-  {%- for Research in site.data.research -%}
+  {%- for research in site.data.research -%}
     {%- if research.category != category -%}{% continue %}{%- endif -%}
     {%- if research.hidden -%}{%- continue -%}{%- endif -%}
     {% include research.html %}
