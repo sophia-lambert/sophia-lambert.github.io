@@ -1,12 +1,21 @@
 ---
-title: Research
+title: Projects
 layout: post
 use_fontawesome: true
+categories:
+  - research
+  - project
 ---
 
-This page highlights several of my research projects. For a complete list of my publications, see my [publications page](./publications.html).
+This page highlights several of my research and personal projects. For a complete list of my publications, see my [publications page](./publications.html).
 
-## Model development for analyzing the diversification of clades of unknown diversity
-The vast majority of the microbial diversity is still unknown. Despite, technical efforts in term of sequencing and model development, it is still challenging to estimate accurately the number of microbial species we are missing. When studying the diversification of a clade using a phylogeny, this estimate of global diversity is required. To overcome this limitation, we propose simple diversification models that do not require to estimate the global diversity of the clade of interest. All the models proposed are based on the birth-death process and assume that the diversification rates of the considered clade are constant through time and across lineages. The models either use the information on the number of sampled species in the phylogeny (called k-sampling model since we condition the process on k: the number of sampled species) or integrate on the whole possible sampling fraction range uniformly (from 0: no species sampled to 1: fully sampled phylogeny) assuming that each species has the same probability to be sampled (Bernoulli sampling scheme). The inference of the diversification rates can be done on a phylogeny or a set of phylogenies assuming common or distinct rates. A variant of those models where a specific sampling fraction distribution is assumed (Beta distribution) is also proposed. The inference is done using Bayesian inference and the models were tested on simulated and empirical dataset. The inference is fast (using closure for likelihood calculation) and as much accurate as we can get (overcoming some numerical approximation for some large phylogenies with low probability). The models are designed for simple diversification analysis with assumptions on rate homogeneity through time and across lineages while alleviating the need to estimate global diversity. It is particularly appropriate for diversification analysis on large microbial clades but also other largely under-sampled clade with unknown global diversity such as coleopterans.
-
-![<img src="Project1_MaxLL2.png" width="100"/>](/images/Project1_MaxLL2.png)*Coverage probability of the net diversification rate \r and the turnover rate \varepsilon for M1 (Birth-Death process under bernoulli sampling with integrated sampling fraction), M2 (Birth-Death process under k-sampling), M3 (Birth-Death process under bernoulli sampling), M4 (Birth-Death process where the phylogeny is assumed complete).*
+{% for category in page.categories %}
+  <div class="border-bottom">
+  <h1 class="section-title">{{ category | capitalize }}</h1>
+  {%- for project in site.data.projects -%}
+    {%- if project.category != category -%}{% continue %}{%- endif -%}
+    {%- if project.hidden -%}{%- continue -%}{%- endif -%}
+    {% include project.html %}
+  {%- endfor -%}
+  </div>
+{%- endfor -%}
