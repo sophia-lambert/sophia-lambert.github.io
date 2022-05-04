@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Research
 layout: post
 use_fontawesome: true
 categories:
