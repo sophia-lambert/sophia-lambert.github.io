@@ -25,7 +25,7 @@
       url: https://hal.sorbonne-universite.fr/hal-03146333/document
 
 - formatted: |
-    Theuerkauff, D., Rivera-Ingraham, G. A., **Lambert, S.**, Mercky, Y., Lejeune, M., Lignot, J. H., & Sucre, E. (2020). Wastewater bioremediation by mangrove ecosystems impacts crab ecophysiology: In-situ caging experiment. Aquatic Toxicology, 218, 105358. Available on the [journal website](https://www.sciencedirect.com/science/article/abs/pii/S0166445X1930668X).
+    Theuerkauff, D., Rivera-Ingraham, G. A., *Lambert, S.*, Mercky, Y., Lejeune, M., Lignot, J. H., & Sucre, E. (2020). Wastewater bioremediation by mangrove ecosystems impacts crab ecophysiology: In-situ caging experiment. Aquatic Toxicology, 218, 105358. Available on the [journal website](https://www.sciencedirect.com/science/article/abs/pii/S0166445X1930668X).
   bibtex: |
     @arrticle{
         THEUERKAUFF2020105358,
