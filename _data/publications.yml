@@ -5,41 +5,21 @@
 - formatted: |
     Ferreira, E. A., *Lambert, S.*, Verrier, T., Marion-Poll, F., & Yassin, A. (2020). Soft selective sweep on chemosensory genes correlates with ancestral preference for toxic noni in a specialist drosophila population. Genes, 12(1), 32. Available on the [journal website](https://www.mdpi.com/2073-4425/12/1/32).
   bibtex: |
-      @Article{genes12010032,
-      AUTHOR = {Ferreira, Erina A. and Lambert, Sophia and Verrier, Thibault and Marion-Poll, Frédéric and Yassin, Amir},
-      TITLE = {Soft Selective Sweep on Chemosensory Genes Correlates with Ancestral Preference for Toxic Noni in a Specialist Drosophila Population},
-      JOURNAL = {Genes},
-      VOLUME = {12},
-      YEAR = {2021},
-      NUMBER = {1},
-      ARTICLE-NUMBER = {32},
-      URL = {https://www.mdpi.com/2073-4425/12/1/32},
-      ISSN = {2073-4425},
-      ABSTRACT = {Understanding how organisms adapt to environmental changes is a major question in evolution and ecology. In particular, the role of ancestral variation in rapid adaptation remains unclear because its trace on genetic variation, known as soft selective sweep, is often hardly recognizable from genome-wide selection scans. Here, we investigate the evolution of chemosensory genes in Drosophila yakuba mayottensis, a specialist subspecies on toxic noni (Morinda citrifolia) fruits on the island of Mayotte. We combine population genomics analyses and behavioral assays to evaluate the level of divergence in chemosensory genes and perception of noni chemicals between specialist and generalist subspecies of D. yakuba. We identify a signal of soft selective sweep on a handful of genes, with the most diverging ones involving a cluster of gustatory receptors expressed in bitter-sensing neurons. Our results highlight the potential role of ancestral genetic variation in promoting host plant specialization in herbivorous insects and identify a number of candidate genes underlying behavioral adaptation.},
-      DOI = {10.3390/genes12010032}
+    @Article{
+        genes12010032,
+        AUTHOR = {Ferreira, Erina A. and Lambert, Sophia and Verrier, Thibault and Marion-Poll, Frédéric and Yassin, Amir},
+        TITLE = {Soft Selective Sweep on Chemosensory Genes Correlates with Ancestral Preference for Toxic Noni in a Specialist Drosophila Population},
+        JOURNAL = {Genes},
+        VOLUME = {12},
+        YEAR = {2021},
+        NUMBER = {1},
+        ARTICLE-NUMBER = {32},
+        URL = {https://www.mdpi.com/2073-4425/12/1/32},
+        ISSN = {2073-4425},
+        BSTRACT = {Understanding how organisms adapt to environmental changes is a major question in evolution and ecology. In particular, the role of ancestral variation in rapid adaptation remains unclear because its trace on genetic variation, known as soft selective sweep, is often hardly recognizable from genome-wide selection scans. Here, we investigate the evolution of chemosensory genes in Drosophila yakuba mayottensis, a specialist subspecies on toxic noni (Morinda citrifolia) fruits on the island of Mayotte. We combine population genomics analyses and behavioral assays to evaluate the level of divergence in chemosensory genes and perception of noni chemicals between specialist and generalist subspecies of D. yakuba. We identify a signal of soft selective sweep on a handful of genes, with the most diverging ones involving a cluster of gustatory receptors expressed in bitter-sensing neurons. Our results highlight the potential role of ancestral genetic variation in promoting host plant specialization in herbivorous insects and identify a number of candidate genes underlying behavioral adaptation.},
+        DOI = {10.3390/genes12010032}
     }
   media:
     - type: pdf
       name: PDF
       url: https://hal.sorbonne-universite.fr/hal-03146333/document
-
-- formatted: |
-    Theuerkauff, D., Rivera-Ingraham, G. A., **Lambert, S.**, Mercky, Y., Lejeune, M., Lignot, J. H., & Sucre, E. (2020). Wastewater bioremediation by mangrove ecosystems impacts crab ecophysiology: In-situ caging experiment. Aquatic Toxicology, 218, 105358. Available on the [journal website](https://www.sciencedirect.com/science/article/abs/pii/S0166445X1930668X).
-  bibtex: |
-      @article{THEUERKAUFF2020105358,
-      title = {Wastewater bioremediation by mangrove ecosystems impacts crab ecophysiology: In-situ caging experiment},
-      journal = {Aquatic Toxicology},
-      volume = {218},
-      pages = {105358},
-      year = {2020},
-      issn = {0166-445X},
-      doi = {https://doi.org/10.1016/j.aquatox.2019.105358},
-      url = {https://www.sciencedirect.com/science/article/pii/S0166445X1930668X},
-      author = {Dimitri Theuerkauff and Georgina A. Rivera-Ingraham and Sophia Lambert and Yann Mercky and Mathilde Lejeune and Jehan-Hervé Lignot and Elliott Sucré},
-      keywords = {Mangrove, Bioturbation, Wastewater, Ecophysiology, Oxidative stress, Osmoregulation},
-      abstract = {Mangroves are tidal wetlands that are often under strong anthropogenic pressures, despite the numerous ecosystem services they provide. Pollution from urban runoffs is one such threats, yet some mangroves are used as a bioremediation tool for wastewater (WW) treatment. This practice can impact mangrove crabs, which are key engineer species of the ecosystem. Using an experimental area with controlled WW releases, this study aimed to determine from an ecological and ecotoxicological perspective, the effects of WW on the red mangrove crab Neosarmatium africanum. Burrow density and salinity levels (used as a proxy of WW dispersion) were recorded, and a 3-week caging experiment was performed. Hemolymph osmolality, gill Na+/K+-ATPase (NKA) activity and gill redox balance were assessed in anterior and posterior gills of N. africanum. Burrow density decreased according to salinity decreases around the discharged area. Crabs from the impacted area had a lower osmoregulatory capacity despite gill NKA activity remaining undisturbed. The decrease of the superoxide dismutase activity indicates changes in redox metabolism. However, both catalase activity and oxidative damage remained unchanged in both areas but were higher in posterior gills. These results indicate that WW release may induce osmoregulatory and redox imbalances, potentially explaining the decrease in crab density. Based on these results we conclude that WW release should be carefully monitored as crabs are key players involved in the bioremediation process.}
-      }
-  media:
-    - type: pdf
-      name: PDF
-      url: https://hal.umontpellier.fr/hal-03411066/document
