@@ -3,7 +3,7 @@
 ####################
 
 - formatted: |
-    Ferreira, E. A., *Lambert, S.*, Verrier, T., Marion-Poll, F., & Yassin, A. (2020). Soft selective sweep on chemosensory genes correlates with ancestral preference for toxic noni in a specialist drosophila population. Genes, 12(1), 32. Available on the [journal website](https://www.mdpi.com/2073-4425/12/1/32).
+    Ferreira, E. A., **Lambert, S.**, Verrier, T., Marion-Poll, F., & Yassin, A. (2020). Soft selective sweep on chemosensory genes correlates with ancestral preference for toxic noni in a specialist drosophila population. Genes, 12(1), 32. Available on the [journal website](https://www.mdpi.com/2073-4425/12/1/32).
   bibtex: |
     @Article{
         genes12010032,
@@ -25,7 +25,7 @@
       url: https://hal.sorbonne-universite.fr/hal-03146333/document
 
 - formatted: |
-    Theuerkauff, D., Rivera-Ingraham, G. A., *Lambert, S.*, Mercky, Y., Lejeune, M., Lignot, J. H., & Sucre, E. (2020). Wastewater bioremediation by mangrove ecosystems impacts crab ecophysiology: In-situ caging experiment. Aquatic Toxicology, 218, 105358. Available on the [journal website](https://www.sciencedirect.com/science/article/abs/pii/S0166445X1930668X).
+    Theuerkauff, D., Rivera-Ingraham, G. A., **Lambert, S.**, Mercky, Y., Lejeune, M., Lignot, J. H., & Sucre, E. (2020). Wastewater bioremediation by mangrove ecosystems impacts crab ecophysiology: In-situ caging experiment. Aquatic Toxicology, 218, 105358. Available on the [journal website](https://www.sciencedirect.com/science/article/abs/pii/S0166445X1930668X).
   bibtex: |
     @arrticle{
         THEUERKAUFF2020105358,
