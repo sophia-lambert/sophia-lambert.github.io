@@ -1,0 +1,9 @@
+---
+title: About
+layout: post
+use_fontawesome: true
+---
+
+I am a PhD student in Evolutionary Biology at the Institute of Biology of the Ecole Normale Supérieure (ENS) advised by [Hélène Morlon](https://www.phyloeco.bio.ens.psl.eu/). I am broadly interested in how microbial diversity has arisen and has been shaped through biotic and abiotic factors. Specifically, my core research focuses on how the ecological and metabolically strategies across the microbial diversity has enable some clade to be more successful than others in their diversification. To do so, I have adapted simple diversification models to some limitations inherent to the microbial world (i.e. unknown global diversity) while proposing some new inference techniques that are likelihood free to overcome speed issues when dealing with large microbial clades. I have applied the developed models and inference machinery on a large bacterial phylogeny. I have investigated not only prokaryotic diversification but also protist one by focusing on how diatoms’ ecological niche width and singularity can relate to their diversification using [Tara Oceans](https://fondationtaraocean.org/en/expedition/tara-oceans/) dataset. I am willing to investigate this question further in the lance of how cooperation and niche construction of microbial species could enhance diversification.
+
+Previously, I studied ecological engineering at [Sorbonne University](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-biodiversite-ecologie-et-evolution-bee) and interdisciplinary approaches in Life sciences at the [CRI](https://master.learningplanetinstitute.org/en). I spent several internships abroad on Mayotte Island (Indian Ocean, check the [project page](https://www.pole-tropical.org/2015/01/etude-de-la-capacite-epuratrice-de-la-mangrove-de-malamani-phase-3/)) and Trinidad and Tobago (Caribbean, check the [project page](https://theguppyproject.weebly.com/)).
