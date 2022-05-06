@@ -29,28 +29,3 @@ layout: default
 <div class="intro border-bottom mb-3">
   {{ content }}
 </div>
-
-<div class="border-bottom mb-3">
-<h2>Featured Posts</h2>
-<ul class="post-list">
-{%- assign counter = 0 -%}
-{%- for post in site.posts -%}
-  {%- if post.pin -%}
-    {% include post_list_item.html %}
-  {%- endif -%}
-{%- endfor -%}
-</ul>
-</div>
-
-<div>
-<h2>Latest Posts</h2>
-<ul class="post-list">
-{%- assign counter = 0 -%}
-{%- for post in site.posts -%}
-  {% include post_list_item.html %}
-  {%- assign counter = counter | plus: 1 -%}
-  {%- if counter >= page.num_posts -%}{%- break -%}{%- endif -%}
-{%- endfor -%}
-</ul>
-</div>
-</div>
