@@ -16,7 +16,7 @@
   media:
     - type: github
       name: Code
-      url:
+      url: https://github.com/sophia-lambert/UDivEvo
 
 
 - category: research
@@ -36,10 +36,6 @@
 
     **Publications:**
     *In preparation*. Draft available upon demand.
-  media:
-    - type: github
-      name: Code
-      url:
 
 - category: research
   title: |
@@ -57,8 +53,4 @@
     Presented at *Virtual Evolution Conference* and at *1rst Congrès des Jeunes Chercheurs du Muséum* at MNHN, Paris, FR.
     **Publications:**
     *In preparation*.
-  media:
-    - type: github
-      name: Code
-      url:
       
