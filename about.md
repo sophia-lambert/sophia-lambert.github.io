@@ -6,7 +6,7 @@ use_fontawesome: true
 
 <div class="row content-row">
 <div class="col-12 col-sm-20">
-    <p>I am a PostDoc scholar in Evolutionary Biology at the <a href="https://blogs.uoregon.edu/ietwo/">Institute of Ecology and Evolution in the University of Oregon</a> (Eugene) advised by <a href="http://www.loucalab.com/">Stilianos Louca</a>. My core research focus on how microbial diversity has arisen and has been shaped through biotic and abiotic factors. I am broadly interested in the process of speciation and extinction of microbial species and use genomic data to understand species dynamic as well as genomic variant and architecture dynamic.</p>
+    <p>I am a PostDoctoral scholar in Evolutionary Biology at the <a href="https://blogs.uoregon.edu/ietwo/">Institute of Ecology and Evolution in the University of Oregon</a> (Eugene) advised by <a href="http://www.loucalab.com/">Stilianos Louca</a>. My core research focus on how microbial diversity has arisen and has been shaped through biotic and abiotic factors. I am broadly interested in the process of speciation and extinction of microbial species and use genomic data to understand species dynamic as well as genomic variant and architecture dynamic.</p>
 
     <p>Previously, I was a PhD student in Evolutionary Biology at the <a href="https://www.ibens.ens.fr/">Institute of Biology of the Ecole Normale Supérieure</a> (ENS) advised by <a href="https://www.phyloeco.bio.ens.psl.eu/">Hélène Morlon</a>. There, I studied the diversification dynamic of microbial species by developing diversification models adapted to microbial datasets, fast inference techniques using deep learning and applying them to large reconstructed microbial phylogenies (check some details in the [research](research.md) section.</p>
 
