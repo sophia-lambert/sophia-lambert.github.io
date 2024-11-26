@@ -1,27 +1,4 @@
 ####################
-# 2023
-####################
-
-- formatted: |
-    Lajaaiti, I., **Lambert, S.**, Voznica, J., Morlon, H., & Hartig, F. (2023). A comparison of deep learning architectures for inferring parameters of diversification models from extant phylogenies. BioRxiv, 2023-03. Available on [biorxiv website](https://www.biorxiv.org/content/10.1101/2023.03.03.530992v1.abstract).
-  bibtex: |
-    @Article{
-        lajaaiti2023comparison,
-        AUTHOR = {Lajaaiti, Isma{\"e}l and Lambert, Sophia and Voznica, Jakub and Morlon, H{\'e}l{\`e}ne and Hartig, Florian},
-        TITLE = {A comparison of deep learning architectures for inferring parameters of diversification models from extant phylogenies},
-        JOURNAL = {BioRxiv},
-        PAGES={2023--03},
-        YEAR = {2023},
-        PUBLISHER={Cold Spring Harbor Laboratory},
-        URL = {https://www.biorxiv.org/content/10.1101/2023.03.03.530992.abstract},
-        DOI = {10.1101/2023.03.03.530992}
-    }
-  media:
-    - type: pdf
-      name: PDF
-      url: https://www.biorxiv.org/content/biorxiv/early/2023/03/06/2023.03.03.530992.full.pdf
-
-####################
 # 2020
 ####################
 
