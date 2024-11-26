@@ -3,6 +3,26 @@
 ####################
 
 - formatted: |
+    **Lambert, S."*"**, Voznica, J."*", & Morlon, H. (2023). Deep learning from phylogenies for diversification analyses. Systematic Biology, 72(6), 1262-1279. Available on the [journal website](https://watermark.silverchair.com/syad044.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1cwggNTBgkqhkiG9w0BBwagggNEMIIDQAIBADCCAzkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMrhRYf40m8BS93ttpAgEQgIIDCi25T7Dvw7LFrxc7wzujiCMMFDz82UPa2kbQELQsrqo8CiuXAMSsER0WHa06sADh85Z0aywyaDCbqxhcYQ7CuF4O1jtruxCyMET06xqNlqp4MK0yaNJkpCQWTICYLQPgLQDHGEfq2knFAaC7v50Sz38T6Pzn4pT_QpWh1IGwNNqXdP1PVPmFqt-otH3a9yDptL29T4yz9D3TVgRk-eZNkLG6Qdekiz1BzHywwx-yeEcl5ZNmY2i3yRuLRFMXKOuOENuBC6nBcSgWwgQxhllvaDVIaVj1Zk17_7Efg89vdteAt0XMG9u3XQLl8kGlkFo4rwN2DoEQSk-smqc6V3iv8zqGqp6Q07C8gnSdSnf3qzGv8xKvq3rs1KvcrLkeoMnYN1Z0oYL0hxoKA9yW7-RM84TwGclKAuBm88eJZIAbzbssAFVk9EBq_1SYoB3LZe-3XL-rSodNOwPBZWiG1MgUxsQvbC8DahuXobrSCoblt-r8_SukBA3kNaS856wPHH2L_PsKzYOMVemkkgBrOorRgN4oc2a3vGumYM-CbZt0H0-5DxPEHaXjkO8Mb0nXNV94LUUhaAQwX-VRMBF0-IXti7BWyjnDE5TJNBvuyh00Ld4NSFFgiFT3gHraq4bckTTCMM82pe8C1trWJo8r5dp5QPSvYs5SXPyrvdvqyLe2RPDBghQjZKeu10kJVqXsCUUHXxxPrJlhDBdG518dgrspsZSH_YU8jZQXVZ4OIMtWUQ8ZcZGoQ-q-E4_3UbpPOmmDfeycgOj-U3uDKYw62EDpKi2JXw_QdWXMy81jmdVTgUQuALrIAGzrE9Gigz7nRdXvAzD-ZHq4dZ0Gi-ZcJSWHjD5VHqkggcSCjomMbOddx5mKchWr8XnY5DhbeFEM-osBJt52XyBt9x7z_NzTuMl9xlBggBEg8W-J39djdjHkcNW0hjvzaUuccQS1HhwJhMHR8AeIoVh18RJsgNAA7xcy_BDBahG0X544wQNf1cP0gPV6HqNmpeRmc6WC5PL47UCfuf8C00QRDg9NuaY).
+  bibtex: |
+  @article{lambert2023deep,
+  title={Deep learning from phylogenies for diversification analyses},
+  author={Lambert, Sophia and Voznica, Jakub and Morlon, H{\'e}l{\`e}ne},
+  journal={Systematic Biology},
+  volume={72},
+  number={6},
+  pages={1262--1279},
+  year={2023},
+  doi={10.1101/2022.09.27.509667},
+  url = {https://academic.oup.com/sysbio/article/72/6/1262/7240104},
+  publisher={Oxford University Press US}
+}
+  media:
+    - type: pdf
+      name: PDF
+      url: https://watermark.silverchair.com/syad044.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1cwggNTBgkqhkiG9w0BBwagggNEMIIDQAIBADCCAzkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMrhRYf40m8BS93ttpAgEQgIIDCi25T7Dvw7LFrxc7wzujiCMMFDz82UPa2kbQELQsrqo8CiuXAMSsER0WHa06sADh85Z0aywyaDCbqxhcYQ7CuF4O1jtruxCyMET06xqNlqp4MK0yaNJkpCQWTICYLQPgLQDHGEfq2knFAaC7v50Sz38T6Pzn4pT_QpWh1IGwNNqXdP1PVPmFqt-otH3a9yDptL29T4yz9D3TVgRk-eZNkLG6Qdekiz1BzHywwx-yeEcl5ZNmY2i3yRuLRFMXKOuOENuBC6nBcSgWwgQxhllvaDVIaVj1Zk17_7Efg89vdteAt0XMG9u3XQLl8kGlkFo4rwN2DoEQSk-smqc6V3iv8zqGqp6Q07C8gnSdSnf3qzGv8xKvq3rs1KvcrLkeoMnYN1Z0oYL0hxoKA9yW7-RM84TwGclKAuBm88eJZIAbzbssAFVk9EBq_1SYoB3LZe-3XL-rSodNOwPBZWiG1MgUxsQvbC8DahuXobrSCoblt-r8_SukBA3kNaS856wPHH2L_PsKzYOMVemkkgBrOorRgN4oc2a3vGumYM-CbZt0H0-5DxPEHaXjkO8Mb0nXNV94LUUhaAQwX-VRMBF0-IXti7BWyjnDE5TJNBvuyh00Ld4NSFFgiFT3gHraq4bckTTCMM82pe8C1trWJo8r5dp5QPSvYs5SXPyrvdvqyLe2RPDBghQjZKeu10kJVqXsCUUHXxxPrJlhDBdG518dgrspsZSH_YU8jZQXVZ4OIMtWUQ8ZcZGoQ-q-E4_3UbpPOmmDfeycgOj-U3uDKYw62EDpKi2JXw_QdWXMy81jmdVTgUQuALrIAGzrE9Gigz7nRdXvAzD-ZHq4dZ0Gi-ZcJSWHjD5VHqkggcSCjomMbOddx5mKchWr8XnY5DhbeFEM-osBJt52XyBt9x7z_NzTuMl9xlBggBEg8W-J39djdjHkcNW0hjvzaUuccQS1HhwJhMHR8AeIoVh18RJsgNAA7xcy_BDBahG0X544wQNf1cP0gPV6HqNmpeRmc6WC5PL47UCfuf8C00QRDg9NuaY
+
+- formatted: |
     Lajaaiti, I., **Lambert, S.**, Voznica, J., Morlon, H., & Hartig, F. (2023). A comparison of deep learning architectures for inferring parameters of diversification models from extant phylogenies. BioRxiv, 2023-03. Available on [biorxiv website](https://www.biorxiv.org/content/10.1101/2023.03.03.530992v1.abstract).
   bibtex: |
     @Article{
