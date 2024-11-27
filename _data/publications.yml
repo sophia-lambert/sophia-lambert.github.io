@@ -3,7 +3,7 @@
 ####################
 
 - formatted: |
-    **Lambert, S."*"**, Voznica, J."*", & Morlon, H. (2023). Deep learning from phylogenies for diversification analyses. Systematic Biology, 72(6), 1262-1279. Available on the [journal website](https://academic.oup.com/sysbio/article-pdf/72/6/1262/56918035/syad044.pdf).
+    **Lambert, S.**, Voznica, J., & Morlon, H. (2023). Deep learning from phylogenies for diversification analyses. Systematic Biology, 72(6), 1262-1279. Available on the [journal website](https://academic.oup.com/sysbio/article-pdf/72/6/1262/56918035/syad044.pdf).
   bibtex: |
   @article{lambert2023deep,
      title={Deep learning from phylogenies for diversification analyses},
