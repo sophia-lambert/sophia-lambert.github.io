@@ -1,4 +1,26 @@
 ####################
+# 2024
+####################
+
+- formatted: |
+    Morlon, H., Andréoletti, J., Barido-Sottani, J., **Lambert, S.**, Perez-Lamarque, B., Quintero, I., ... & Veron, P. (2024). Phylogenetic Insights into Diversification. Annual Review of Ecology, Evolution, and Systematics, 55. Available on the [journal website](https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-020508).
+  bibtex: |
+  @article{morlon2024phylogenetic,
+  title={Phylogenetic Insights into Diversification},
+  author={Morlon, H{\'e}l{\`e}ne and Andr{\'e}oletti, J{\'e}r{\'e}my and Barido-Sottani, Jo{\"e}lle and Lambert, Sophia and Perez-Lamarque, Beno{\^\i}t and Quintero, Ignacio and Senderov, Viktor and Veron, Pierre},
+  journal={Annual Review of Ecology, Evolution, and Systematics},
+  volume={55},
+  year={2024},
+  doi={https://doi.org/10.1146/annurev-ecolsys-102722-020508},
+  url = {https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-020508},
+  publisher={Annual Reviews}
+}
+  media:
+    - type: pdf
+      name: PDF
+      url: https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-020508?crawler=true&mimetype=application/pdf
+
+####################
 # 2023
 ####################
 
